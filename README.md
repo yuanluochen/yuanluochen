@@ -16,9 +16,15 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=yuanluochen&repo=LowComputer-Sentry-2023)](https://github.com/yuanluochen/LowComputer-Sentry-2023)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=yuanluochen&repo=vision_task)](https://github.com/yuanluochen/vision_task)
-<br><br><br>
+
 
 ### Github 活跃度
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuanluochen&langs_count=6)
+[![](https://activity-graph.herokuapp.com/graph?username=yuanluochen&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![原落尘's github stats](https://github-readme-stats.vercel.app/api?username=yuanluochen&show_icons=true&theme=vue)
+
+### 开发语言
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuanluochen&layout=compact&langs_count=6)
+
 
