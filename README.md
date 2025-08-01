@@ -7,6 +7,8 @@
 ### **社交主页：**
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+ 
+ -   <a href="https://www.zhihu.com/people/yuan-luo-chen-81-9"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：知乎内容作者。
 
 ### **技术栈:**
 
