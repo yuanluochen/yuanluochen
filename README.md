@@ -9,10 +9,8 @@
  -   <a href="https://www.zhihu.com/people/yuan-luo-chen-81-9"><code><img height="20" width="50" src="./images/zhihu.jpeg"></code></a>：知乎内容创作者。
  -   <a href="https://space.bilibili.com/397673236?spm_id_from=333.1007.0.0"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：bilibili视频创作者。
 
-
-
 ### **技术栈:**
-[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fan-ziqi&theme=buefy&layout=compact"/>](https://github.com/fan-ziqi/)
+
 - 💻&nbsp;
   ![Python](https://img.shields.io/badge/Python-333333?logo=python&logoColor=3776AB)
   ![C++](https://img.shields.io/badge/C/C++-333333?logo=cplusplus&logoColor=00599C)
