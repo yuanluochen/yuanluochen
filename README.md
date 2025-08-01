@@ -42,6 +42,6 @@
 
 ### 开发语言
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuanluochen&layout=compact&langs_count=6)
+[<img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanluochen&theme=buefy&layout=compact"/>](https://github.com/yuanluochen/)
 
 
