@@ -6,8 +6,8 @@
 
 ### **社交主页：**
  
- -   <a href="https://www.zhihu.com/people/yuan-luo-chen-81-9"><code><img height="20" width="50" src="./images/zhihu.jpeg"></code></a>：知乎内容创作者。
- -   <a href="https://space.bilibili.com/397673236?spm_id_from=333.1007.0.0"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：bilibili视频创作者。
+ -   <a href="https://www.zhihu.com/people/yuan-luo-chen-81-9"><code><img height="30" width="30" src="./images/zhihu.jpeg"></code></a>：知乎内容创作者。
+ -   <a href="https://space.bilibili.com/397673236?spm_id_from=333.1007.0.0"><code><img height="30" width="30" src="./images/bilibili.jpeg"></code></a>：bilibili视频创作者。
 
 ### **技术栈:**
 
