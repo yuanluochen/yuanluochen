@@ -8,11 +8,27 @@
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
  
- -   <a href="https://www.zhihu.com/people/yuan-luo-chen-81-9"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：知乎内容作者。
+ -   <a href="https://www.zhihu.com/people/yuan-luo-chen-81-9"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：知乎内容创作者。
 
 ### **技术栈:**
 
-<a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
+- 💻&nbsp;
+  ![Python](https://img.shields.io/badge/Python-333333?logo=python&logoColor=3776AB)
+  ![C++](https://img.shields.io/badge/C/C++-333333?logo=cplusplus&logoColor=00599C)
+  ![ROS](https://img.shields.io/badge/ROS-333333?logo=ros&logoColor=22314E)
+  ![ROS2](https://img.shields.io/badge/ROS2-333333?logo=ros&logoColor=22314E)
+- 🔌&nbsp;
+  ![STM32](https://img.shields.io/badge/STM32-333333?logo=stmicroelectronics&logoColor=03234B)
+  ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-333333?logo=freertos&logoColor=0C0C0C)
+- ⚙️&nbsp;
+  ![Linux](https://img.shields.io/badge/Linux-333333?logo=linux&logoColor=FCC624)
+  ![Git](https://img.shields.io/badge/Git-333333?logo=git&logoColor=F05032)
+  ![Markdown](https://img.shields.io/badge/Markdown-333333?logo=markdown&logoColor=000000)
+- 🖥&nbsp;
+  ![VS Code](https://img.shields.io/badge/VS_Code-333333?logo=visualstudiocode&logoColor=007ACC)
+  ![Keil](https://img.shields.io/badge/Keil-333333?logo=arm&logoColor=0091BD)
+  ![CLion](https://img.shields.io/badge/CLion-333333?logo=clion&logoColor=000000)
+
 
 ### 开源项目
 
