@@ -1,7 +1,7 @@
 <img align="right" src="https://count.getloli.com/get/@:yuanluochen?theme=rule34">
 
 ## 机器人开发爱好者—原落尘
-[<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanluochen&theme=buefy&layout=donut"/>](https://github.com/yuanluochen/)
+
 热爱自动控制技术、热爱机器人技术。电子信息硕士研究生在读。
 
 ### **社交主页：**
@@ -10,7 +10,7 @@
  -   <a href="https://space.bilibili.com/397673236?spm_id_from=333.1007.0.0"><code><img height="30" width="30" src="./images/bilibili.jpeg"></code></a>：bilibili视频创作者。
 
 ### **技术栈:**
-
+[<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanluochen&theme=buefy&layout=donut"/>](https://github.com/yuanluochen/)
 - 💻&nbsp;
   ![Python](https://img.shields.io/badge/Python-333333?logo=python&logoColor=3776AB)
   ![C++](https://img.shields.io/badge/C/C++-333333?logo=cplusplus&logoColor=00599C)
