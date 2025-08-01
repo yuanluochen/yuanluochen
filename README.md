@@ -5,8 +5,6 @@
 热爱控制技术、热爱机器人技术。电子信息硕士研究生在读。
 
 ### **社交主页：**
-
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
  
  -   <a href="https://www.zhihu.com/people/yuan-luo-chen-81-9"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：知乎内容创作者。
 
