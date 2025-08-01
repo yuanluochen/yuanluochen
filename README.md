@@ -1,8 +1,8 @@
 <img align="right" src="https://count.getloli.com/get/@:yuanluochen?theme=rule34">
 
 ## 机器人开发爱好者—原落尘
-
-热爱控制技术、热爱机器人技术。电子信息硕士研究生在读。
+[<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanluochen&theme=buefy&layout=donut"/>](https://github.com/yuanluochen/)
+热爱自动控制技术、热爱机器人技术。电子信息硕士研究生在读。
 
 ### **社交主页：**
  
@@ -40,8 +40,7 @@
 [![](https://activity-graph.herokuapp.com/graph?username=yuanluochen&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![原落尘's github stats](https://github-readme-stats.vercel.app/api?username=yuanluochen&show_icons=true&theme=vue)
 
-### 开发语言
 
-[<img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanluochen&theme=buefy&layout=compact"/>](https://github.com/yuanluochen/)
+
 
 
