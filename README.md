@@ -13,8 +13,8 @@
 
 ### **技术栈:**
 - 💻&nbsp;
-  ![Python](https://img.shields.io/badge/Python-333333?logo=python&logoColor=3776AB)
   ![C++](https://img.shields.io/badge/C/C++-333333?logo=cplusplus&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/Python-333333?logo=python&logoColor=3776AB)
   ![ROS](https://img.shields.io/badge/ROS-333333?logo=ros&logoColor=22314E)
   ![ROS2](https://img.shields.io/badge/ROS2-333333?logo=ros&logoColor=22314E)
 - 🔌&nbsp;
