@@ -3,6 +3,8 @@
 ## 机器人开发爱好者—原落尘
 
 热爱自动控制技术、热爱机器人技术。电子信息硕士研究生在读。[点击进入原落尘's 个人Bolg](https://yuanluochen.github.io/)
+<br><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuanluochen&layout=compact&langs_count=6)
 
 ### **社交主页：**
  
