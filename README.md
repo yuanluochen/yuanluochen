@@ -30,12 +30,6 @@
   ![CLion](https://img.shields.io/badge/CLion-333333?logo=clion&logoColor=000000)
 
 
-### 开源项目
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=yuanluochen&repo=LowComputer-Sentry-2023)](https://github.com/yuanluochen/LowComputer-Sentry-2023)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=yuanluochen&repo=vision_task)](https://github.com/yuanluochen/vision_task)
-
-
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=yuanluochen&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
