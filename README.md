@@ -28,14 +28,3 @@ Passionate about automatic control technology and robotics. Currently pursuing a
   ![VS Code](https://img.shields.io/badge/VS_Code-333333?logo=visualstudiocode&logoColor=007ACC)
   ![Keil](https://img.shields.io/badge/Keil-333333?logo=arm&logoColor=0091BD)
   ![CLion](https://img.shields.io/badge/CLion-333333?logo=clion&logoColor=000000)
-
-
-### GitHub Activity
-
-[![](https://activity-graph.herokuapp.com/graph?username=yuanluochen&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Yuan Luochen's github stats](https://github-readme-stats.vercel.app/api?username=yuanluochen&show_icons=true&theme=transparent)
-
-
-
-
-
