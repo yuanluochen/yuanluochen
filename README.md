@@ -2,5 +2,6 @@
 
 ## Developer - Yuan Luochen(原落尘)
 
-Passionate about automatic control technology and robotics. Currently pursuing a Master's degree in Electronic Information, with a focus on spatial structural dynamics and vibration control.
+Passionate about automation control technology and robotics.
+A Master's candidate in Electronic Information at the University of Chinese Academy of Sciences, currently researching spatial structural dynamics and vibration control.
 
