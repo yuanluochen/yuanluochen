@@ -1,16 +1,16 @@
 <img align="right" src="https://count.getloli.com/get/@:yuanluochen?theme=rule34">
 
-## 机器人开发者—原落尘
+## Developer - Yuan Luochen(原落尘)
 
-热爱自动控制技术、热爱机器人技术。电子信息硕士研究生在读。
+Passionate about automatic control technology and robotics. Currently pursuing a Master's degree in Electronic Information, with a focus on spatial structural dynamics and vibration control.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuanluochen&layout=compact&langs_count=6)
 
-### **社交主页：**
+### **Social Media：**
  
  -   <a href="https://www.zhihu.com/people/yuan-luo-chen-81-9"><code><img height="30" width="30" src="./images/zhihu.jpeg"></code></a>：知乎内容创作者。
  -   <a href="https://space.bilibili.com/397673236?spm_id_from=333.1007.0.0"><code><img height="30" width="30" src="./images/bilibili.jpeg"></code></a>：bilibili视频创作者。
 
-### **技术栈:**
+### **Technical Stack:**
 - 💻&nbsp;
   ![C++](https://img.shields.io/badge/C/C++-333333?logo=cplusplus&logoColor=00599C)
   ![Python](https://img.shields.io/badge/Python-333333?logo=python&logoColor=3776AB)
@@ -29,10 +29,10 @@
   ![CLion](https://img.shields.io/badge/CLion-333333?logo=clion&logoColor=000000)
 
 
-### Github 活跃度
+### GitHub Activity
 
 [![](https://activity-graph.herokuapp.com/graph?username=yuanluochen&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![原落尘's github stats](https://github-readme-stats.vercel.app/api?username=yuanluochen&show_icons=true&theme=transparent)
+![Yuan Luochen's github stats](https://github-readme-stats.vercel.app/api?username=yuanluochen&show_icons=true&theme=transparent)
 
 
 
