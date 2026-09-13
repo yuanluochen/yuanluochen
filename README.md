@@ -4,7 +4,7 @@
 
 ### 原落尘 · Yuan Luochen
 
-**自动化控制 · 机器人 · 结构振动控制**
+**自动控制 · 机器人 · 结构动力学 · 振动控制**
 
 <img src="https://img.shields.io/badge/中国科学院大学-电子信息_硕士-A6CE39?style=flat-square" />
 <img src="https://img.shields.io/badge/中国科学院沈阳自动化研究所-空间结构动力学-2F81F7?style=flat-square" />
