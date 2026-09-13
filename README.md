@@ -31,7 +31,7 @@
 - 🎓 中国科学院大学 **电子信息** 硕士研究生，就读于 **中国科学院沈阳自动化研究所**
 - 🛰️ 研究方向：**空间结构动力学** 与 **主动振动控制**
 - ⚙️ 热爱 **自动控制相关理论与技术**
-- 🔫 RoboMaster 齐奇战队（[QIqi-RoboMaster-laboratory](https://github.com/QIqi-RoboMaster-laboratory)）队员，负责 **电控** 与 **视觉**
+- 🔫 前RoboMaster 齐奇战队（[QIqi-RoboMaster-laboratory](https://github.com/QIqi-RoboMaster-laboratory)）队员，负责 **电控** 与 **视觉**
 - 📝 座右铭：**专注当下，事事尽心**
 
 ### 🔬 研究方向
@@ -56,7 +56,7 @@
 - 🎓 M.Eng. candidate in **Electronic Information** at the **University of Chinese Academy of Sciences**, based at the **Shenyang Institute of Automation, Chinese Academy of Sciences**
 - 🛰️ Research interests: **space structure dynamics** and **Active Vibration Control**
 - ⚙️ Passionate about **theories and technologies related to automatic control**
-- 🔫 Member of the RoboMaster **QIqi** team ([QIqi-RoboMaster-laboratory](https://github.com/QIqi-RoboMaster-laboratory)), focusing on **embedded control** and **computer vision**
+- 🔫 Former Member of the RoboMaster **QIqi** team ([QIqi-RoboMaster-laboratory](https://github.com/QIqi-RoboMaster-laboratory)), focusing on **embedded control** and **computer vision**
 - 📝 Motto: **专注当下，事事尽心** — *Be present, and give your best in everything.*
 
 ### 🔬 Research Interests
