@@ -97,19 +97,6 @@
 
 ---
 
-### 📈 GitHub 数据 · Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yuanluochen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanluochen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=EXUDYN" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yuanluochen&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-
-</div>
-
----
-
 ### 📫 联系我 · Connect with Me
 
 <div align="center">
